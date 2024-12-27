@@ -1,7 +1,6 @@
 - Hi, I’m @pujara-narayana also known as Zuzu
 - I’m interested in full-stack development, Gen-AI, and CyberSecurity 
 - I’m currently Majoring in Software Engineering
-- I’m completing a course on Full Stack Development and CyberSecurity
 - Pronouns: He/Him/His
 
 
